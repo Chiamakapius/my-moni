@@ -27,7 +27,7 @@ DEVELOPMENT PROCESS
 1. Install project 
 2. create repo and connect and git repo
 3. create folder system
-4. install initial packages (react-native paper, custom fonts, icons)
+4. install initial packages (react-native paper, custom fonts (expo-fonts), splash screen, icons)
 5. setup safe area view for iOS and android
 6. setup stack navigation
 7. setup bottom tab navigation
